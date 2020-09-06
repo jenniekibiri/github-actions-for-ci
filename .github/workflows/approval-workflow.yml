@@ -1,4 +1,5 @@
-name: Team awesome's approval workflow
+
+name: Team backend approval workflow
 on: pull_request_review
 jobs:
   labelWhenApproved:
